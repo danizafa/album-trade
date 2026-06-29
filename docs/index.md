@@ -8,26 +8,32 @@ Offline-first sticker album manager for FIFA World Cup collections.
 
 ## Documentation
 
+Select your preferred language:
+
 ### 🇺🇸 English
 
-- [Privacy Policy](en/privacy-policy)
+* [Privacy Policy](en/privacy-policy)
 
-### 🇪🇸 Español
+### 🇦🇷 Español
 
-Coming soon
+* [Política de Privacidad](es-AR/privacy-policy)
 
-### 🇵🇹 Português
+### 🇧🇷 Português (Brasil)
 
-Coming soon
+* [Política de Privacidade](pt-BR/privacy-policy)
 
 ### 🇫🇷 Français
 
-Coming soon
+* [Politique de confidentialité](fr/privacy-policy)
 
 ### 🇩🇪 Deutsch
 
-Coming soon
+* [Datenschutzerklärung](de/privacy-policy)
 
 ### 🇮🇹 Italiano
 
-Coming soon
+* [Informativa sulla privacy](it/privacy-policy)
+
+---
+
+© 2026 Album Trade.
