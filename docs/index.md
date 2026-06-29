@@ -4,7 +4,7 @@ title: Album Trade
 
 # Album Trade
 
-Offline-first sticker album manager for FIFA World Cup collections.
+Offline-first sticker collection manager.
 
 ## Documentation
 
