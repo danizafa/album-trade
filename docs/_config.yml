@@ -1,6 +1,6 @@
 title: Album Trade
 description: Offline-first sticker album manager for FIFA World Cup collections.
-theme: minima
+theme: jekyll-theme-cayman
 
 plugins:
 
