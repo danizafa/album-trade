@@ -1,6 +1,6 @@
 ---
-
-## title: Album Trade
+title: Album Trade
+---
 
 # Album Trade
 
@@ -10,41 +10,24 @@ Offline-first sticker album manager for FIFA World Cup collections.
 
 ### 🇺🇸 English
 
-* [Privacy Policy](en/privacy-policy)
+- [Privacy Policy](en/privacy-policy)
 
 ### 🇪🇸 Español
 
-* Coming soon
+Coming soon
 
 ### 🇵🇹 Português
 
-* Coming soon
+Coming soon
 
 ### 🇫🇷 Français
 
-* Coming soon
+Coming soon
 
 ### 🇩🇪 Deutsch
 
-* Coming soon
+Coming soon
 
 ### 🇮🇹 Italiano
 
-* Coming soon
-
----
-
-## Features
-
-* Offline-first architecture
-* Album management
-* Collection statistics
-* QR sharing
-* Communities
-* Intelligent trade matching
-* Trade proposals
-* Counter proposals
-
----
-
-© 2026 Album Trade
+Coming soon
