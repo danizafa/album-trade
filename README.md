@@ -1,19 +1,22 @@
 # Album Trade
 
-Album Trade is an offline-first Android application designed to help collectors manage and exchange FIFA World Cup sticker albums.
+Album Trade is an offline-first Android application that helps collectors manage, analyze, and exchange FIFA World Cup sticker albums.
 
-The application focuses on fast album management, intelligent exchange suggestions, and community-based trading while keeping users in control of their own data.
+The app combines local album management with intelligent exchange tools, QR-based trading, and optional community features while keeping the user's collection stored locally on the device.
 
 ## Features
 
 * Offline-first architecture
 * Complete sticker album management
-* Collection statistics
-* QR code sharing
-* Community support
+* Collection statistics and country progress
+* QR-based sticker exchange
+* Community-based trading
 * Intelligent trade matching
-* Trade proposals
+* Online trade proposals
 * Counter-proposals
+* Pending trade management
+* Multi-language support
+* Light, Dark and System theme
 * Firebase synchronization for community features
 
 ## Technology
@@ -24,14 +27,22 @@ The application focuses on fast album management, intelligent exchange suggestio
 * MVVM Architecture
 * Hilt
 * DataStore
+* Firebase Authentication
 * Firebase Firestore
+* Google Play In-App Updates
 * Google AdMob
+* ZXing QR Code Library
 
 ## Documentation
 
-* Privacy Policy: `docs/en/privacy-policy.md`
+Privacy Policy:
 
-Additional languages will be added over time.
+* English: `docs/en/privacy-policy.md`
+* Spanish (Argentina): `docs/es-AR/privacy-policy.md`
+* Portuguese (Brazil): `docs/pt-BR/privacy-policy.md`
+* Italian: `docs/it/privacy-policy.md`
+* French: `docs/fr/privacy-policy.md`
+* German: `docs/de/privacy-policy.md`
 
 ## License
 
